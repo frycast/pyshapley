@@ -1,2 +1,2 @@
 # pyshapley
-Shapley value utilities in Python
+Shapley value utilities in Python.
